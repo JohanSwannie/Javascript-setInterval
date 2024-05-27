@@ -45,6 +45,7 @@ p:nth-child(odd) {
   color: #fff;
   background-color: rgb(171, 66, 87);
   border: 2px solid #000;
+  border-radius: 55%;
 }
 
 p:nth-child(even) {
